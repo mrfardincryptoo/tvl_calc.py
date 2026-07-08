@@ -1,2 +1,2 @@
-# tvl_calc.py
-tvl_calc.py
+# Protocol TVL Aggregator
+A financial utility script designed to calculate the Total Value Locked (TVL) across dynamic dictionaries of simulated liquidity pools and asset prices.
